@@ -2,7 +2,7 @@ Breve descrição do que o trabalho faz.
 
 ## Estrutura do projeto
 - robo.py
-- busca_matriz.py
+- buscabusca.py
 - temperaturas.py
 - sensores.py
 - listas.json
